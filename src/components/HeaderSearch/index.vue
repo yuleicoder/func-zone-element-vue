@@ -147,6 +147,7 @@ export default {
     cursor: pointer;
     font-size: 18px;
     vertical-align: middle;
+    margin-top: -4px;
   }
 
   .header-search-select {
